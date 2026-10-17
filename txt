@@ -26,3 +26,20 @@ what the website needs to have :
 
 THEME :
         am thinking like bubbles connecting thoughts with each other and color changes from stuff i like to stuff i hate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        so am going to build a draw function that draws a number of particles around my mouse coordinates
+        it needs to list all of the ones it drawed and when they pass  10 it  removes the last one 
